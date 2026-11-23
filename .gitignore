@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vercel
+tunnel_url.txt
